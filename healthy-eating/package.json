@@ -1,0 +1,24 @@
+{
+  "name": "healthy-eating",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "firebase": "^11.6.0",
+    "framer-motion": "^12.7.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-slick": "^0.30.3",
+    "react-toastify": "^11.0.5",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^4.0.0"
+  }
+}
